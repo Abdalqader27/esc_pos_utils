@@ -111,10 +111,10 @@ packages:
     dependency: "direct main"
     description:
       name: image
-      sha256: bb9f31e29110ca9ed55d371256d0dab5ee622896aca7330d007fc1a36aaba732
+      sha256: "3e5c9ef82c0af7823be4cb5294a829a6e0548a6f6b4e261e6386509a9e03bcab"
       url: "https://pub.dev"
     source: hosted
-    version: "3.0.5"
+    version: "3.0.2"
   leak_tracker:
     dependency: transitive
     description:
@@ -175,10 +175,10 @@ packages:
     dependency: transitive
     description:
       name: petitparser
-      sha256: b1e35bcd00e0ab63a4883d7d76461da7477dcac3ab82fa0ab894be729d579032
+      sha256: cb3798bef7fc021ac45b308f4b51208a152792445cce0448c9a4ba5879dd8750
       url: "https://pub.dev"
     source: hosted
-    version: "4.3.0"
+    version: "5.4.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -260,10 +260,10 @@ packages:
     dependency: transitive
     description:
       name: xml
-      sha256: "78bc0a9ed038e65944b95f4c5d3a72a607d63e1a9f1e8281fa0cfe9d2811c279"
+      sha256: "80d494c09849dc3f899d227a78c30c5b949b985ededf884cb3f3bcd39f4b447a"
       url: "https://pub.dev"
     source: hosted
-    version: "5.3.0"
+    version: "5.4.1"
 sdks:
   dart: ">=3.3.0 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
